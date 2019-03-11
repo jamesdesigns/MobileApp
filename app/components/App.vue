@@ -1,5 +1,6 @@
 <template>
     <Page>
+        <!-- This is a comment -->
         <ActionBar title="Welcome to NativeScript-Vue!" android:flat="true"/>
         <TabView android:tabBackgroundColor="#53ba82"
                  android:tabTextColor="#c4ffdf"
